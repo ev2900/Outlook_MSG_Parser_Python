@@ -1,6 +1,4 @@
 # pip install win32com
-# pip install os
-# pip install re
 
 import win32com.client
 from os import walk
