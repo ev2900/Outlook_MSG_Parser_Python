@@ -1,6 +1,6 @@
 # Outlook .msg File Python Parser
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-1260-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-558-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-1260-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-572-green">
 
 Email(s) saved with the .msg file extension are not human read-able when opened in a text editor. These files (.msg) are also difficult to process in Python using common text manipulation process ex. regular expressions. This repository has a python script that can parse all .msg files in a folder and can extract the following fields
 
